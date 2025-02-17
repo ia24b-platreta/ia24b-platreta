@@ -4,24 +4,24 @@
 I'm a 16-year-old software developer based in Zurich, Switzerland. I’m currently doing an apprenticeship as a Software Developer while studying at BZZ Horgen. I'm passionate about technology and coding, with a strong interest in software development and problem-solving.
 ## 🚀 What I Do:
 
-    👨‍💻 I’m currently learning and working with different technologies, building cool projects, and expanding my skills in both frontend and backend development.
-    🌱 I'm always learning, and right now, I'm diving deeper into web development, machine learning, and cloud technologies.
-    🧑‍🎓 Outside of work, I am committed to finishing my apprenticeship and attending school at BZZ Horgen.
+👨‍💻 I’m currently learning and working with different technologies, building cool projects, and expanding my skills in both frontend and backend development.
+🌱 I'm always learning, and right now, I'm diving deeper into web development, machine learning, and cloud technologies.
+🧑‍🎓 Outside of work, I am committed to finishing my apprenticeship and attending school at BZZ Horgen.
 
 ## 🧬 My Background:
 
 I come from a diverse cultural background, with French and Polish roots. I think this gives me a unique perspective and helps me understand and approach challenges from multiple angles.
 ## 🔧 Technologies & Tools:
 
-    - Languages: Java, Python, JavaScript, HTML/CSS, C
-    - Frameworks: Bootstrap
-    - Tools: Git, PyCharm, IntelliJ, MySQL Workbench
-    - Database: MySQL, MariaDB
+- Languages: Java, Python, JavaScript, HTML/CSS, C
+- Frameworks: Bootstrap
+- Tools: Git, PyCharm, IntelliJ, MySQL Workbench
+- Database: MySQL, MariaDB
 ## 📬 Let's Connect:
 
-    Email: platret.alex@gmail.com
-    School-Email: platreta@bzz.ch
-    Discord: jacknostv
+Email: platret.alex@gmail.com
+School-Email: platreta@bzz.ch
+Discord: jacknostv
     
 <!--
 **ia24b-platreta/ia24b-platreta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
