@@ -15,9 +15,9 @@ I'm a 16-year-old software developer based in Zurich, Switzerland. I’m current
 - Database: MySQL, MariaDB
 ## 📬 Let's Connect:
 
-- Email: &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; **platret.alex@gmail.com**
+- Email: &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; **platret.alex@gmail.com**
 - School-Email:&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; **platreta@bzz.ch**
-- Discord:&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;**jacknostv**
+- Discord:&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; **jacknostv**
     
 <!--
 **ia24b-platreta/ia24b-platreta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
