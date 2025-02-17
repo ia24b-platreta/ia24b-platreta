@@ -9,10 +9,10 @@ I'm a 16-year-old software developer based in Zurich, Switzerland. I’m current
 - 🧑‍🎓 Outside of work, I am committed to finishing my apprenticeship and attending school at BZZ Horgen.
 ## 🔧 Technologies & Tools:
 
-- Languages: Java, Python, JavaScript, HTML/CSS, SQL, C
-- Frameworks: Bootstrap
-- Tools: Git, PyCharm, IntelliJ, MySQL Workbench
-- Database: MySQL, MariaDB
+- **Languages:** Java, Python, JavaScript, HTML/CSS, SQL, C
+- **Frameworks:** Bootstrap
+- **Tools:** Git, PyCharm, IntelliJ, MySQL Workbench
+- **Database:** MySQL, MariaDB
 ## 📬 Let's Connect:
 
 - Email: &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; **platret.alex@gmail.com**
