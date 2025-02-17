@@ -1,4 +1,4 @@
-# Hi there, I'm ** Alex ** 👋
+# Hi there, I'm **Alex** 👋
 ## 🌍 About Me:
 
 I'm a 16-year-old software developer based in Zurich, Switzerland. I’m currently doing an apprenticeship as a Software Developer while studying at BZZ Horgen. I'm passionate about technology and coding, with a strong interest in software development and problem-solving.
