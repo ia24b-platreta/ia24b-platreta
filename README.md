@@ -16,7 +16,7 @@ I'm a 16-year-old software developer based in Zurich, Switzerland. I’m current
 ## 📬 Let's Connect:
 
 - Email: &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; **platret.alex@gmail.com**
-- School-Email:&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; **platreta@bzz.ch**
+- School-Email:&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;**platreta@bzz.ch**
 - Discord:&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp; **jacknostv**
     
 <!--
