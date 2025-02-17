@@ -5,12 +5,8 @@ I'm a 16-year-old software developer based in Zurich, Switzerland. I’m current
 ## 🚀 What I Do:
 
 - 👨‍💻 I’m currently learning and working with different technologies, building cool projects, and expanding my skills in both frontend and backend development.
-- 🌱 I'm always learning, and right now, I'm diving deeper into web development, machine learning, and cloud technologies.
+- 🌱 I'm always learning, and right now, I'm diving deeper into web development, Databases, and overall improvements in my Code.
 - 🧑‍🎓 Outside of work, I am committed to finishing my apprenticeship and attending school at BZZ Horgen.
-
-## 🧬 My Background:
-
-I come from a diverse cultural background, with French and Polish roots. I think this gives me a unique perspective and helps me understand and approach challenges from multiple angles.
 ## 🔧 Technologies & Tools:
 
 - Languages: Java, Python, JavaScript, HTML/CSS, C
